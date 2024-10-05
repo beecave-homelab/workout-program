@@ -1,0 +1,46 @@
+{
+    "currentWeek": 1,
+    "workoutDays": [
+      {
+        "name": "Day 1",
+        "exercises": [
+          {"name": "Squat", "maxWeight": 97.5, "currentWeight": 68.5, "normalSetReps": 5, "lastSetReps": 10, "achievedReps": 10, "setGoal": 5},
+          {"name": "Bench Press", "maxWeight": 85, "currentWeight": 59.5, "normalSetReps": 5, "lastSetReps": 10, "achievedReps": 10, "setGoal": 5},
+          {"name": "Romanian deadlift", "maxWeight": 100, "currentWeight": 60, "normalSetReps": 5, "lastSetReps": 10, "achievedReps": 10, "setGoal": 5}
+        ]
+      },
+      {
+        "name": "Day 2",
+        "exercises": [
+          {"name": "OHP", "maxWeight": 45, "currentWeight": 31.5, "normalSetReps": 5, "lastSetReps": 10, "achievedReps": 10, "setGoal": 5},
+          {"name": "Front Squat", "maxWeight": 70, "currentWeight": 42, "normalSetReps": 5, "lastSetReps": 10, "achievedReps": 10, "setGoal": 5},
+          {"name": "Push Press", "maxWeight": 55, "currentWeight": 33, "normalSetReps": 5, "lastSetReps": 10, "achievedReps": 10, "setGoal": 5}
+        ]
+      },
+      {
+        "name": "Day 3",
+        "exercises": [
+          {"name": "Deadlift", "maxWeight": 135, "currentWeight": 94.5, "normalSetReps": 5, "lastSetReps": 10, "achievedReps": 10, "setGoal": 5},
+          {"name": "Close Grip Bench", "maxWeight": 77.5, "currentWeight": 46.5, "normalSetReps": 5, "lastSetReps": 10, "achievedReps": 10, "setGoal": 5}
+        ]
+      },
+      {
+        "name": "Day 4",
+        "exercises": [
+          {"name": "Bench Press", "maxWeight": 85, "currentWeight": 59.5, "normalSetReps": 5, "lastSetReps": 10, "achievedReps": 10, "setGoal": 5},
+          {"name": "Squat", "maxWeight": 97.5, "currentWeight": 68.5, "normalSetReps": 5, "lastSetReps": 10, "achievedReps": 10, "setGoal": 5}
+        ]
+      }
+    ],
+    "selectedAccessories": ["", "", ""],
+    "initialWeights": [
+      {"name": "Squat", "maxWeight": 97.5, "singleAt8Percentage": 90},
+      {"name": "Bench Press", "maxWeight": 85, "singleAt8Percentage": 90},
+      {"name": "Deadlift", "maxWeight": 135, "singleAt8Percentage": 90},
+      {"name": "OHP", "maxWeight": 45, "singleAt8Percentage": 90},
+      {"name": "Front Squat", "maxWeight": 70, "singleAt8Percentage": 90},
+      {"name": "Close Grip Bench", "maxWeight": 77.5, "singleAt8Percentage": 90},
+      {"name": "Romanian deadlift", "maxWeight": 100, "singleAt8Percentage": 90},
+      {"name": "Push Press", "maxWeight": 55, "singleAt8Percentage": 90}
+    ]
+}
