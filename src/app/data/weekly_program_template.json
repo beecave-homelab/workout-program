@@ -1,0 +1,94 @@
+{
+    "days": [
+      {
+        "day": 1,
+        "exercises": [
+          {
+            "lift": "Squat",
+            "sets": 5,
+            "reps_per_set": "{{reps_per_set}}",
+            "weight": "{{weight}}",
+            "last_set_rep_target": "{{last_set_rep_target}}"
+          },
+          {
+            "lift": "Bench Press",
+            "sets": 5,
+            "reps_per_set": "{{reps_per_set}}",
+            "weight": "{{weight}}",
+            "last_set_rep_target": "{{last_set_rep_target}}"
+          },
+          {
+            "lift": "Romanian Deadlift",
+            "sets": 5,
+            "reps_per_set": "{{reps_per_set}}",
+            "weight": "{{weight}}",
+            "last_set_rep_target": "{{last_set_rep_target}}"
+          }
+        ]
+      },
+      {
+        "day": 2,
+        "exercises": [
+          {
+            "lift": "OHP",
+            "sets": 5,
+            "reps_per_set": "{{reps_per_set}}",
+            "weight": "{{weight}}",
+            "last_set_rep_target": "{{last_set_rep_target}}"
+          },
+          {
+            "lift": "Front Squat",
+            "sets": 5,
+            "reps_per_set": "{{reps_per_set}}",
+            "weight": "{{weight}}",
+            "last_set_rep_target": "{{last_set_rep_target}}"
+          },
+          {
+            "lift": "Push Press",
+            "sets": 5,
+            "reps_per_set": "{{reps_per_set}}",
+            "weight": "{{weight}}",
+            "last_set_rep_target": "{{last_set_rep_target}}"
+          }
+        ]
+      },
+      {
+        "day": 3,
+        "exercises": [
+          {
+            "lift": "Deadlift",
+            "sets": 5,
+            "reps_per_set": "{{reps_per_set}}",
+            "weight": "{{weight}}",
+            "last_set_rep_target": "{{last_set_rep_target}}"
+          },
+          {
+            "lift": "Close Grip Bench",
+            "sets": 5,
+            "reps_per_set": "{{reps_per_set}}",
+            "weight": "{{weight}}",
+            "last_set_rep_target": "{{last_set_rep_target}}"
+          }
+        ]
+      },
+      {
+        "day": 4,
+        "exercises": [
+          {
+            "lift": "Bench Press",
+            "sets": 5,
+            "reps_per_set": "{{reps_per_set}}",
+            "weight": "{{weight}}",
+            "last_set_rep_target": "{{last_set_rep_target}}"
+          },
+          {
+            "lift": "Squat",
+            "sets": 5,
+            "reps_per_set": "{{reps_per_set}}",
+            "weight": "{{weight}}",
+            "last_set_rep_target": "{{last_set_rep_target}}"
+          }
+        ]
+      }
+    ]
+}

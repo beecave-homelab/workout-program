@@ -1,0 +1,25 @@
+{
+    "intensity_progression": [
+      { "week": 1, "intensity_percentage": 70 },
+      { "week": 2, "intensity_percentage": 75 },
+      { "week": 3, "intensity_percentage": 80 },
+      { "week": 4, "intensity_percentage": 85 },
+      { "week": 5, "intensity_percentage": 85 },
+      { "week": 6, "intensity_percentage": 90 },
+      { "week": 7, "intensity_percentage": 90 },
+      { "week": 8, "intensity_percentage": 95 },
+      { "week": 9, "intensity_percentage": 95 },
+      { "week": 10, "intensity_percentage": 100 },
+      { "week": 11, "intensity_percentage": 60 },
+      { "week": 12, "intensity_percentage": 70 },
+      { "week": 13, "intensity_percentage": 75 },
+      { "week": 14, "intensity_percentage": 80 },
+      { "week": 15, "intensity_percentage": 85 },
+      { "week": 16, "intensity_percentage": 85 },
+      { "week": 17, "intensity_percentage": 90 },
+      { "week": 18, "intensity_percentage": 95 },
+      { "week": 19, "intensity_percentage": 95 },
+      { "week": 20, "intensity_percentage": 100 },
+      { "week": 21, "intensity_percentage": 60 }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "reps_mapping": [
+      {
+        "intensity_percentage": 60,
+        "reps_per_set": 5,
+        "last_set_rep_target": 5
+      },
+      {
+        "intensity_percentage": 70,
+        "reps_per_set": 5,
+        "last_set_rep_target": 10
+      },
+      {
+        "intensity_percentage": 75,
+        "reps_per_set": 4,
+        "last_set_rep_target": 8
+      },
+      {
+        "intensity_percentage": 80,
+        "reps_per_set": 3,
+        "last_set_rep_target": 6
+      },
+      {
+        "intensity_percentage": 85,
+        "reps_per_set": 2,
+        "last_set_rep_target": 5
+      },
+      {
+        "intensity_percentage": 90,
+        "reps_per_set": 2,
+        "last_set_rep_target": 4
+      },
+      {
+        "intensity_percentage": 95,
+        "reps_per_set": 1,
+        "last_set_rep_target": 3
+      },
+      {
+        "intensity_percentage": 100,
+        "reps_per_set": 1,
+        "last_set_rep_target": 1
+      }
+    ]
+}

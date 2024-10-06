@@ -1,0 +1,12 @@
+{
+    "max_weights": {
+      "Squat": 97.5,
+      "Bench Press": 85,
+      "Deadlift": 135,
+      "Overhead Press": 45,
+      "Front Squat": 70,
+      "Romanian Deadlift": 100,
+      "Close Grip Bench": 77.5,
+      "Push Press": 55
+    }
+}
