@@ -75,14 +75,14 @@
         "day": 4,
         "exercises": [
           {
-            "lift": "Bench Press",
+            "lift": "Bench Press (2nd time)",
             "sets": 5,
             "reps_per_set": "{{reps_per_set}}",
             "weight": "{{weight}}",
             "last_set_rep_target": "{{last_set_rep_target}}"
           },
           {
-            "lift": "Squat",
+            "lift": "Squat (2nd time)",
             "sets": 5,
             "reps_per_set": "{{reps_per_set}}",
             "weight": "{{weight}}",
