@@ -1,0 +1,34 @@
+# Ignore everything by default
+*
+
+# Allow specific files and directories
+!package.json
+!package-lock.json
+!next.config.mjs
+!tsconfig.json
+!postcss.config.mjs
+!tailwind.config.ts
+!server.js
+!src/
+!public/
+!.env
+
+# Ignore development and test files within allowed directories
+**/*.test.*
+**/*.spec.*
+**/tests/
+**/__tests__/
+**/coverage/
+
+# Ignore node_modules in any allowed directory
+**/node_modules/
+
+# Ignore build artifacts
+.next/
+out/
+build/
+dist/
+
+# Ignore version control
+.git/
+.gitignore
