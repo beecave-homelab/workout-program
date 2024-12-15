@@ -87,7 +87,7 @@ function useWorkoutData() {
 
   const fetchData = useCallback(async () => {
     try {
-      const response = await fetch('/api/workout');
+      const response = await fetch(`http://${window.location.hostname}:${process.env.NEXT_PUBLIC_API_PORT}/api/workout`);
       const fetchedData: WorkoutData = await response.json();
       setData(fetchedData);
     } catch (error) {
@@ -142,7 +142,7 @@ export default function WorkoutProgram() {
 
   const updateBackend = useCallback(async (data: WorkoutData) => {
     try {
-      const response = await fetch('/api/workout', {
+      const response = await fetch(`http://${window.location.hostname}:${process.env.NEXT_PUBLIC_API_PORT}/api/workout`, {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
